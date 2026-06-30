@@ -1,0 +1,14 @@
+C:\Users\a.calkins\WeatherNow\bin\Debug\net10.0\WeatherNow.exe
+C:\Users\a.calkins\WeatherNow\bin\Debug\net10.0\WeatherNow.deps.json
+C:\Users\a.calkins\WeatherNow\bin\Debug\net10.0\WeatherNow.runtimeconfig.json
+C:\Users\a.calkins\WeatherNow\bin\Debug\net10.0\WeatherNow.dll
+C:\Users\a.calkins\WeatherNow\bin\Debug\net10.0\WeatherNow.pdb
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.AssemblyInfoInputs.cache
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.AssemblyInfo.cs
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.csproj.CoreCompileInputs.cache
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.dll
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\refint\WeatherNow.dll
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.pdb
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\WeatherNow.genruntimeconfig.cache
+C:\Users\a.calkins\WeatherNow\obj\Debug\net10.0\ref\WeatherNow.dll
